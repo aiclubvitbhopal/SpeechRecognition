@@ -19,17 +19,15 @@ p {
     padding: 0;
     margin: 0;
     color: rgba(50, 51, 51, .8);
-    line-height: 2.6rem;
+    line-height: 2.6rem
 }
 
 body {
-    background: #f1f1f1;
-
+    background: #f1f1f1
 }
 
-
 p {
-    font-weight: 400;
+    font-weight: 400
 }
 
 .h3,
@@ -37,7 +35,7 @@ p {
 h3,
 h4 {
     font-family: Oswald, sans-serif;
-    font-weight: 700;
+    font-weight: 700
 }
 
 h1,
@@ -376,11 +374,6 @@ button {
 .lgx-heading-white .heading,
 .lgx-heading-white .subheading {
     color: #fff
-}
-
-#about-more-text {
-    text-align: justify;
-    text-justify: inter-word;
 }
 
 .lgx-subheading {
@@ -7113,7 +7106,7 @@ button:hover:after {
     animation-name: fadeInRight;
     -webkit-transform-origin: center;
     transform-origin: center;
-    padding-top: 0rem;
+    padding-top: 1.5rem;
     animation-duration: .4s;
     animation-timing-function: linear;
     margin-top: .5rem;
@@ -7403,33 +7396,32 @@ button:hover:after {
 }
 
 .lgx-header .menu-onscroll .lgx-navbar .lgx-logo a img {
-    margin-top: -15px;
+    margin-top: 0;
     -webkit-transition: all .2s ease-in-out 0s;
     -moz-transition: all .2s ease-in-out 0s;
     -o-transition: all .2s ease-in-out 0s;
     transition: all .2s ease-in-out 0s;
-    /* aspect-ratio: 100/90; */
-    max-height: 7.5rem;
+    max-width: 59px;
 }
 
 .lgx-header-position-fixed.menu-onscroll,
 .lgx-header-position-fixed.menu-onscroll .navbar-collapse {
-    margin-top: 0;
+    margin-top: 0
 }
 
 .lgx-header-fixed-container.menu-onscroll .lgx-navbar {
     background: 0 0;
-    padding: 0;
+    padding: 0
 }
 
 .lgx-header-fixed-container-gap.menu-onscroll .lgx-navbar {
     background: 0 0;
     padding: 0;
-    margin-top: 0;
+    margin-top: 0
 }
 
 .lgx-header .menu-onscroll.lgx-header-background-tr {
-    padding: 0;
+    padding: 0
 }
 
 @-webkit-keyframes fadeInRight {
@@ -10267,7 +10259,7 @@ button:hover:after {
 
 .lgx-panel .panel-body {
     padding: 0 2rem 2rem;
-    margin-left: 10px;
+    margin-left: 120px;
     display: block
 }
 
